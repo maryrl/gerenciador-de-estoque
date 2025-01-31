@@ -1,8 +1,8 @@
-Gerenciador de Estoque
-Descrição
+## Gerenciador de Estoque
+## Descrição
 O Gerenciador de Estoque é uma aplicação desenvolvida para auxiliar empresas no controle e organização de seus estoques. Com uma interface intuitiva e funcionalidades robustas, o sistema permite o cadastro, consulta, atualização e remoção de produtos, além de fornecer relatórios e alertas para facilitar a gestão de inventário.
 
-Funcionalidades
+## Funcionalidades
 Cadastro de Produtos: Adicione novos produtos ao estoque com informações como nome, descrição, código de barras, quantidade, preço de custo, preço de venda, categoria, etc.
 
 Consulta de Produtos: Pesquise produtos por nome, código, categoria ou outras características.
@@ -19,7 +19,7 @@ Categorias e Fornecedores: Organize produtos por categorias e vincule fornecedor
 
 Interface Amigável: Design intuitivo e fácil de usar, com suporte para diferentes dispositivos.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Frontend: HTML, CSS, JavaScript (React.js ou Vue.js)
 
 Backend: Node.js, Express.js
@@ -32,7 +32,7 @@ Testes: Jest, Mocha, Chai
 
 Versionamento: Git
 
-Como Executar o Projeto
+## Como Executar o Projeto
 Pré-requisitos
 Node.js instalado
 
@@ -92,10 +92,10 @@ Push para a branch (git push origin feature/nova-feature).
 
 Abra um Pull Request.
 
-Licença
+## Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Contato
+## Contato
 Para dúvidas, sugestões ou feedback, entre em contato:
 
 Email: seu-email@example.com
