@@ -58,7 +58,8 @@ Editar
 npm start  
 Acesse a aplicação no navegador:
 http://localhost:3000.
-🤝 Contribuições
+
+## 🤝 Contribuições
 Contribuições são sempre bem-vindas!
 
 Faça um fork do projeto.
